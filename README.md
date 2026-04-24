@@ -1,16 +1,25 @@
-## Hi there 👋
+# Merhaba 👋
 
-<!--
-**salmanfaryss/salmanfaryss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben Souleymane  
 
-Here are some ideas to get you started:
+🎓 Bilgisayar Programcılığı öğrencisiyim (AÖF)  
+🎓 İslam Bilimleri öğrencisiyim (Fatih Sultan Mehmet Üniversitesi)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Hakkımda
+Yazılım geliştirmeye ilgi duyuyorum ve özellikle backend ve mobil uygulama alanında kendimi geliştirmekteyim.  
+Yeni teknolojiler öğrenmeyi seviyorum ve projeler yaparak kendimi ilerletiyorum.
+
+## 🛠️ Kullandığım Teknolojiler
+- C#
+- SQL
+- Flutter (başlangıç)
+- HTML & CSS
+
+## 🌍 Diller
+- Fransızca (İleri)
+- Arapça (İleri)
+- Türkçe (İleri)
+- İngilizce (Başlangıç)
+
+## 🎯 Hedefim
+Kendimi sürekli geliştirerek iyi bir yazılım geliştirici olmak ve uluslararası projelerde yer almak.
